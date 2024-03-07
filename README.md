@@ -6,6 +6,8 @@
 
 ![image](https://github.com/foreshubham/Space-tourism-multi-page-website/assets/130773338/62253787-8cdc-43d7-b3c9-4e9b9e9c50b1)
 
+This is not completely responisve.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
